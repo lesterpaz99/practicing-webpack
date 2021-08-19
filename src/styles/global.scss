@@ -1,0 +1,8 @@
+$base_color: lightblue;
+$color: rgba(black, 0.88);
+
+body {
+	background-color: $base_color;
+	color: $color;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
